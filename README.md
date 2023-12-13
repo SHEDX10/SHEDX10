@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHEDX10
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in coding and other program related stuffs. 
+- 🌱 I’m currently learning coding and develop webpage etc. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aayamishere@gmail.com
 
